@@ -23,3 +23,6 @@ for livemarket_VWAP:
 - Here, starthour is current hour from opening and endhour is next hour from opening (basically trading hour window)
 - now for the close, VWAP will be calculated from 3:30 PM to 4:00 PM
 - close VWAP will be in the file named as livemarket_trade_close.txt
+
+**Data download link:**
+https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/01302019.NASDAQ_ITCH50.gz
